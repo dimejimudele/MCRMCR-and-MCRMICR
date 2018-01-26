@@ -1,5 +1,5 @@
 # MCRMCR-and-MCRMICR
-Feature selection based on minimum conditional relevance and conditional redundant
+Feature selection based on minimum conditional relevance and minimum conditional redundancy
 
 This code is based on the following :
 1. MIToolbox, it is free software written by Adam Pocock
